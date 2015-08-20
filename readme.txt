@@ -99,6 +99,10 @@ define('ADMIN_COOKIE_PATH', SITECOOKIEPATH . WP_ADMIN_DIR);`
 
 2- There is a backup file of `.htaccess` in the root directory of your Wordpress installation named `.htaccess.backup`. You only need to remove your `.htaccess` file and rename backup file from `.htaccess.backup` to `.htaccess`. Also rename `hide-login` folder within `plugins` directory to something else. Done!
 
+= Are you interested to collaborate with me on Hide Login+? =
+
+* Find me on `https://github.com/churiart/hide-login`
+
 == Screenshots ==
 
 1. Settings
