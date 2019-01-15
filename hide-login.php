@@ -4,7 +4,6 @@ Plugin Name: Hide Login+
 Description: This plugin allows you to create custom URLs for user's Log in, Log out, Sign up and Admin page.
 Author: Mohammad Hossein Aghanabi
 Version: 3.5.1
-Author URI: http://koder.io
 */
 /*
 This is a new version of Stealth Login plguin by skullbit
